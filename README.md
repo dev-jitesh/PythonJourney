@@ -1,23 +1,23 @@
 # 🐍 PythonJourney
 
 Welcome to my **Python learning journey**!  
-This repository documents my progress from beginner to advanced, covering courses, projects, and experiments.
+This repository documents my progress as I learn Python, practise programming concepts, and build projects from beginner to advanced level.
 
 ---
 
 ## 📂 Repository Structure
-- **CS50P/** → Harvard’s CS50 Python course (organized week by week).
-- **100DaysOfCode/** → Daily Python projects (automation, web apps, games).
-- **ZTM/** → Advanced Python projects from Zero to Mastery.
-- **MiniProjects/** → Extra experiments and practice apps.
-- **Notes.md** → Key learnings and reflections.
+
+- **100DaysOfCode/** → Daily Python projects, practice, and experiments (planned for the future).
+- **MiniProjects/** → Small Python projects to apply concepts and improve problem-solving skills.
 
 ---
 
 ## 🎯 Goals
-- Build strong Python fundamentals.
-- Apply skills in AI/ML, cybersecurity, and full‑stack development.
-- Create portfolio projects for SIH and beyond.
+
+- Build strong Python fundamentals and problem-solving skills.
+- Learn advanced Python concepts through consistent practice.
+- Apply Python skills in AI/ML, cybersecurity, and software development.
+- Build meaningful projects and develop a strong GitHub portfolio.
 
 ---
 
